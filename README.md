@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **BTech CSE** - KPR Institute of Technology
-- 📍 **From:** Sircilla, Telangana
+- 📍 **From:** hyderabad, Telangana
 - 🌱 Currently learning: **Data Structures, Python, Web Development**
 - 💡 Goal: **Software Developer / Full Stack Developer**
 - 📫 Reach me: **GitHub** - [@lingalashashankgoud](https://github.com/lingalashashankgoud)
